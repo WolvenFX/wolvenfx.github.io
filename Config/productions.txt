@@ -5,11 +5,11 @@
 Senior VFX Compositor
 MPC Paris
 2015 - Present
-../../Resources/Config/MPC.png
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Config/MPC.png
 I worked as a Senior Lead Compositor on numerous feature films
 ---
 Lead VFX Compositor
 The Mill Paris
 2015 - Present
-../../Resources/Config/TheMill.png
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Config/TheMill.png
 I worked as a Senior Lead Compositor on numerous ads and music videos
