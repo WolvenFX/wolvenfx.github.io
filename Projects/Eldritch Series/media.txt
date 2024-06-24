@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/EldritchSeries/Cthulhu.jpg
+Cthulhu Awakens - This image was made as a first exercise at using Blender's geometry nodes, making a procedural tentacle generator.
+
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/EldritchSeries/Gas_Station.jpg
+Refuel - This was a training for photorealistic lighting and rendering.
+
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/EldritchSeries/Stranded.jpg
+Stranded
