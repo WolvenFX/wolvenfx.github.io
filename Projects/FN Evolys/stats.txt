@@ -6,7 +6,7 @@ Texture Size:
 
 Texel Density: 
 
-Workflow: PBR Metallic
+Workflow: SubD High Poly Modelling
 
 Target Engine: Cycles
 
