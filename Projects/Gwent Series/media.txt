@@ -1,17 +1,11 @@
-https://example1.png
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/GwentSeries/BlackBlood.jpg
+Black Blood - In the distant past, mages working with witchers developed this potion specifically for use in fighting cemetery and crypt dwellers that drink the blood or eat the innards of their still living victims. Witchers use Black Blood unwillingly because the potion only works when a monster begins to feast on their body. Their transmuted blood proves to be a deadly drink.
 
-https://example2.jpg
-Description for example2.jpg.
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/GwentSeries/HenGaidth.jpg
+Hen Gaidth - What Lies Unseen
 
-https://example3.gif
-These aren't real images but need replacing with your own.
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/GwentSeries/Sihil.jpg
+Sihil - na pohybel skurwysynom, To their doom
 
-https://examplevideo.mp4
-MP4's are also supported but like with images should be hosted somewhere like dropbox.
-
-https://beforepic.png // https://afterpic.png
-You can create before and after slider by seperating two urls with ' // ' 
-
-https://sketchfabexample.com 
-you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/GwentSeries/Swallow.jpg
+Swallow - There is no bird more beautiful than the swallow, the harbinger of spring. Even the dark mages who developed the formula for witchers' potions appreciated the charm of this bird, lending its name to the potion that accelerates regeneration of a mutated organism.
