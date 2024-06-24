@@ -1,6 +1,6 @@
 Gwent Series
 ---
-A recreation of Gwent Cards in Blender
+A recreation of Gwent Cards in Blender. Original artworks by CD Projekt Red.
 ---
 Blender, EmberGen, Fusion, Substance Painter
 ---
