@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Config/profilepic.png
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Config/profilepic.jpg
 Randy Gudin
 VFX Compositor
 France
