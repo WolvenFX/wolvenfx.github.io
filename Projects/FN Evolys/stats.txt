@@ -6,8 +6,8 @@ Texture Size:
 
 Texel Density: 
 
-Workflow: 
+Workflow: PBR Metallic
 
-Target Engine: 
+Target Engine: Cycles
 
 Collaborators:
