@@ -1,11 +1,2 @@
-https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/FN_Evolys/FN_Evolys_001-Side_002.jpg
-FN Evolys Side View
-
-https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/FN_Evolys/FN_Evolys_001-FrontLeft_001.jpg
-FN Evolys Front View
-
-https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/FN_Evolys/FN_Evolys_001-FrontLeft_Close_001.jpg
-FN Evolys Bullet Belt View
-
-https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/FN_Evolys/FN_Evolys_001-RearLeft_001.jpg
-FN Evolys Rear View
+https://raw.githubusercontent.com/WolvenFX/wolvenfx.github.io/main/Resources/Projects/Gas_Giant_Refinery\GasGiantRefinery001.jpg
+Gas Giant Refinery
