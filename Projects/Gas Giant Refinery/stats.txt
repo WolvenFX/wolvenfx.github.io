@@ -1,0 +1,13 @@
+Triangles: 
+
+Materials: 
+
+Texture Size: 
+
+Texel Density: 
+
+Workflow: SubD High Poly Modelling
+
+Target Engine: Cycles
+
+Collaborators:
