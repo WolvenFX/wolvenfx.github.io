@@ -6,7 +6,7 @@ Texture Size:
 
 Texel Density: 
 
-Workflow: SubD High Poly Modelling
+Workflow:
 
 Target Engine: Cycles
 
